@@ -1,6 +1,5 @@
-# BigDataAnalytics
+# The MET CS777
+# Big Data Analytics 
+## Farshid Alizadeh-Shabdiz 
 
-## CS777 - Big Data Analytics
-## Farshid Alizadeh-Shabdiz
-
-This repo contains all the 
+Code repository of CS777 - Big Data course
